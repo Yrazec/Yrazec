@@ -27,3 +27,7 @@ In December 2020, I started working for _SII Sp. z o. o._:
 |--------------------------------------------------|-----------------------------|------------------------------------------------------------------------------|---------------------------|------------------------------------------------------------------------|
 | Nicolaus Copernicus University in Toruń (Poland) | Bachelor of Science (B.Sc.) | Applied Computer Science                                                     | 2015 – 2019 (7 semesters) | Radio frequency Direct Digital Synthesizer control using WWW interface |
 | Nicolaus Copernicus University in Toruń (Poland) | Master of Science (M.Sc.)   | Applied Computer Science (Data mining and Web, mobile and computer networks) | 2019 – 2020 (3 semesters) | Text to image synthesis using GAN network                              |
+
+#  
+###### Cezary Pietruszyński ∙ [LinkedIn](https://www.linkedin.com/in/cezary-pietruszynski-tkd/)
+_Yrazec is just Cezary but reversed!_
