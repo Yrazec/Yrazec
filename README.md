@@ -5,9 +5,10 @@
 I am a person who appreciates hard work, the results of which I always try to maintain at the highest level. I also appreciate solving problems on my own and learning from my mistakes, but I am always happy to listen to the advice of more experienced people. In addition to work and private interests related to IT, I also train Taekwon-do in the ITF federation (from March 2016 to now). 
 
 If you are HR and want to interest me with your offer, then before you write, check whether the offer falls within my interests:
-• I am a programmer writing mainly in Python (I also have a lot of, but not up-to-date, C# experience).
-• I am interested in Artificial Intelligence / Machine Learning / Deep Learning / Data Science (although I have no commercial experience in these fields).
-• I can confidently apply for the position of Mid/Regular Developer, perhaps for a Senior position.
+
+- I am a programmer writing mainly in Python (I also have a lot of, but not up-to-date, C# experience).
+- I am interested in Artificial Intelligence / Machine Learning / Deep Learning / Data Science (although I have no commercial experience in these fields).
+- I can confidently apply for the position of Mid/Regular Developer, perhaps for a Senior position.
 
 ### Work
 
